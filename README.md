@@ -26,8 +26,7 @@ Follow the steps below to install and run this app locally.
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/username/repository-name.git
-cd repository-name
+git clone https://github.com/LTG-SPN/attendance-web.git
 ```
 
 ### 2. Install Dependencies
@@ -79,9 +78,9 @@ After both servers are running, the app will be available at:
 
 ### 4. Access the App
 
-Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to access the application.
+Open browser and navigate to [http://localhost:3000](http://localhost:3000) to access the application.
 
-Log in as **Admin** or **Student** based on the available credentials in your setup.
+Log in as **Admin** or **Student** based on the available credentials in the setup.
 
 ---
 
