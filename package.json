@@ -1,5 +1,5 @@
 {
-    "name": "presence-web",
+    "name": "attendance-web",
     "scripts": {
       "dev": "concurrently \"npm run dev --prefix backend\" \"npm run dev --prefix frontend\""
     },
