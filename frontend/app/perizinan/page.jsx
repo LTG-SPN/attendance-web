@@ -1,14 +1,14 @@
 "use client"
 
-const Home = () => {
+const Perizinan = () => {
 
 // LOGIKA DAN BEHAVIOUR DISINI
 
   return (
     <section>
-      <div>Ini halaman Dashboard</div>
+      <div>Ini Halaman perizinan</div>
     </section>
   );
 };
 
-export default Home;
+export default Perizinan;

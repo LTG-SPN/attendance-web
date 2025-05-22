@@ -1,14 +1,14 @@
 "use client"
 
-const Home = () => {
+const Login = () => {
 
 // LOGIKA DAN BEHAVIOUR DISINI
 
   return (
     <section>
-      <div>Ini halaman Dashboard</div>
+      <div>Ini Halaman Login</div>
     </section>
   );
 };
 
-export default Home;
+export default Login;
