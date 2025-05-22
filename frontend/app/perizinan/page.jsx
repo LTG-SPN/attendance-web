@@ -6,7 +6,7 @@ const Perizinan = () => {
 
   return (
     <section>
-      <div>Ini Halaman perizinan</div>
+      <div>Ini Halaman perizinans</div>
     </section>
   );
 };
